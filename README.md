@@ -2,13 +2,11 @@
 
 <https://github.com/o0HalfLife0o/TVBoxOSC/releases>
 
-## 特惠流量卡办理 [点我](https://ym.ksjhaoka.com/?s=TLVD3qse138072)
-
 ## 影视TV [GitHub仓库](https://github.com/FongMi/Release) [123云盘](https://www.123pan.com/s/RLY9-F4hpH)
 
 配置地址选一个输入
 
-<http://肥猫.live>
+<http://肥猫.com>
 
 <http://www.饭太硬.com/tv>
 
