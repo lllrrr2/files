@@ -24,13 +24,11 @@
 
 ## 手机端 密码666 [蓝奏云分享](https://cyao.lanzouk.com/b0ehcgwmj)
 
-## 盒子软件 [分享迷](https://www.fenxm.com/tv)
+## 盒子软件
 
-[飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc) [表情浏览器](https://cyao.lanzouk.com/iIo760eynebc)
+[飞视浏览器](https://cyao.lanzouy.com/irdJv08lt7bc) [当贝桌面](https://cyao.lanzov.com/iHODy16dojuj)
 
-[儿歌多多](https://www.fenxm.com/613.html) [秒看电视](https://www.fenxm.com/862.html) [神鸟电视](https://www.fenxm.com/908.html)
-
-[当贝桌面](https://www.fenxm.com/626.html) [蛮荒桌面](https://www.fenxm.com/877.html)
+[儿歌多多](https://cyao.lanzov.com/iNaO116domhe) [看电视](https://cyao.lanzov.com/igH9t2fv2pof)
 
 ## 油猴脚本
 
@@ -45,6 +43,12 @@
 <https://cyao2q.github.io/files/ext/EasyList.txt>
 
 <https://cyao2q.github.io/files/ext/uBlock.txt>
+
+<https://filters.adtidy.org/android/filters/2_optimized.txt>
+
+<https://filters.adtidy.org/android/filters/224_optimized.txt>
+
+<https://filters.adtidy.org/android/filters/11_optimized.txt>
 
 ## A free CDN for Open Source
 
